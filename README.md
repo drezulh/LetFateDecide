@@ -1,2 +1,2 @@
 # LetFateDecide
-It's a basic TicTacToe game :)
+rock Paper Scissors game
